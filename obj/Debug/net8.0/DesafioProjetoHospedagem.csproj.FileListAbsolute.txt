@@ -12,3 +12,4 @@ C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos
 C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.pdb
 C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.genruntimeconfig.cache
 C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioProjetoHospedagem\obj\Debug\net8.0\ref\DesafioProjetoHospedagem.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.sourcelink.json
