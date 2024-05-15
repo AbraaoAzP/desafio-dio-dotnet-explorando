@@ -3,8 +3,8 @@
 ## Contexto 📚
 <p>Construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel. Será utilizada uma classe Pessoa,
   para representar o hóspede, a classe Suíte, e a classe Reserva, que fará um relacionamento entre a Classe Pessoa e Suite.</p>
-<p>O programa deverá calcular os valores dos métodos encontrados dentro da classe Reserva e retornar quantidade de hóspedes e o
-   valor da estadia, concedendo um desconto de 10% caso a reserva seja para um período igal ou maior do que 10 dias.</p>  
+<p>O programa deverá calcular os valores dos métodos encontrados dentro da classe Reserva e retornar a quantidade de hóspedes e o
+   valor da estadia, concedendo um desconto de 10% caso a reserva seja para um período igual ou maior do que 10 dias.</p>  
 
 ## Regras e Validações ✅
 <ol>
