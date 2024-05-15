@@ -21,7 +21,6 @@ namespace DesafioProjetoHospedagem.Models
         }
 
         private string _nome;
-
         private string _sobrenome;
 
         public string Nome 
